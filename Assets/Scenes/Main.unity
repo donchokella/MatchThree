@@ -652,6 +652,7 @@ MonoBehaviour:
   - {fileID: 2151869064414368752, guid: c66a907376dabcf4a8380f21991afb3d, type: 3}
   - {fileID: 4224061325259016628, guid: 4b2fc3b45a00b9b41b9481b5cd28e8de, type: 3}
   - {fileID: 929483262264040926, guid: d259ee9795c95744f86cf45aed7a01c6, type: 3}
+  swapTime: 0.5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
